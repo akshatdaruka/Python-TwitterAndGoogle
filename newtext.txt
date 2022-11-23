@@ -1,0 +1,13 @@
+rice:56.78
+wheat:45.77
+turmeric:67.89
+medicines:200.09
+cosmetics:400.67
+flour:67.88
+toothpaste:56.77
+oil:67.88
+food powders:55.78
+beans:56.88
+anise:67.77
+fruits:660.78
+etc:900.88

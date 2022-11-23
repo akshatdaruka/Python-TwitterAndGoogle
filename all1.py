@@ -1,0 +1,15 @@
+x=('glenn','sally','josh')
+print(x)
+print(x[2])
+y=(5,8,10)
+print(y)
+print(y[2])
+for iter in y:
+    print(iter)
+#y[2]=67--traceback
+#print(y)
+print('\n\n')
+(x,y)=(4,'fred')
+print(x)
+print(x,y)
+print(y)
